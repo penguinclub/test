@@ -1,2 +1,2 @@
 test
-second line
+Second line.
